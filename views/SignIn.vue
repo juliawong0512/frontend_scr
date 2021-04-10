@@ -14,7 +14,6 @@
         </div>
         <section class="submit-container">
           <div>
-            <h5>For Demo:</h5>
             <p>
               Email :
               <i>test@test.test</i> | Password :
