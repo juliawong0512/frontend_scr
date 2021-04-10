@@ -18,8 +18,6 @@ export default {
     this.$swal.fire({
       icon: "success",
       title: "Signed-out!",
-      text: "We're looking forward to see you."
-      //   footer: "<a href>Why do I have this issue?</a>"
     });
   }
 };
