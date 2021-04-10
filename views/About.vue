@@ -74,30 +74,6 @@
             Axios -
             <i>HTTP requests</i>
           </li>
-          <li>
-            JSONPlaceholder -
-            <i
-              >a free online REST API that you can use whenever you need some
-              fake data.</i
-            >
-          </li>
-          <li>
-            SweetAlert2 -
-            <i>
-              A beautiful, responsive, customizable, accessible (WAI-ARIA)
-              replacement for JavaScript's popup boxes</i
-            >
-          </li>
-        </ul>
-      </div>
-      <img src="../assets/code.svg" alt="code" />
-    </div>
-    <section class="src">
-      <p>@2019 :</p>
-      <a href="https://github.com/eevan7a9/social-media-frontend"
-        >https://github.com/eevan7a9/social-media-frontend</a
-      >
-    </section>
   </div>
 </template>
 <style scoped>
