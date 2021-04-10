@@ -27,9 +27,9 @@
       </div>
       <div class="post-bottom">
         <div class="star-comment">
-          <!-- Likes Starts here -->
+       
           <Like :likes="singlePost.likes" :post_id="singlePost.id" />
-          <!-- Likes end here -->
+         
           <div>
             <img
               class="icon-img"
