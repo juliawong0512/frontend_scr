@@ -13,7 +13,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import SideBar from "../components/SideBar";
 import PostAdd from "../components/posts/PostAdd";
 import FilterPosts from "../components/posts/FilterPosts";
@@ -40,7 +39,7 @@ export default {
   computed: mapGetters(["allPosts", "showLoader"]),
 
   async created() {
-    if (!this.allPosts.length) {
+    if {
       this.toggleLoader(true);
       await this.initApplication();
       setTimeout(() => {
